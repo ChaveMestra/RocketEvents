@@ -1,0 +1,8 @@
+name: RocketEvents
+author: RocketMC
+main: com.rocketmc.events.RocketEvents
+version: 1.0
+load: POSTWORLD
+commands:
+  evento:
+    aliases: event, eventos
